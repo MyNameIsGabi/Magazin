@@ -1,0 +1,8 @@
+D:\materii prime\PIU\Gestiune magazin c#\bin\Debug\Gestiune magazin c#.exe.config
+D:\materii prime\PIU\Gestiune magazin c#\bin\Debug\Gestiune magazin c#.exe
+D:\materii prime\PIU\Gestiune magazin c#\bin\Debug\Gestiune magazin c#.pdb
+D:\materii prime\PIU\Gestiune magazin c#\obj\Debug\Gestiune magazin c#.csproj.AssemblyReference.cache
+D:\materii prime\PIU\Gestiune magazin c#\obj\Debug\Gestiune magazin c#.csproj.SuggestedBindingRedirects.cache
+D:\materii prime\PIU\Gestiune magazin c#\obj\Debug\Gestiune magazin c#.csproj.CoreCompileInputs.cache
+D:\materii prime\PIU\Gestiune magazin c#\obj\Debug\Gestiune magazin c#.exe
+D:\materii prime\PIU\Gestiune magazin c#\obj\Debug\Gestiune magazin c#.pdb
